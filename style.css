@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.june {
+    color: darkcyan;
+}
+
+section {
+    display: flex;
+    padding-left: 5%;
+}
+
+.july img {
+    width: 100%;
+
+}
+
+.july {
+    width: 50%;
+    padding: 10px 25px 10px 20px;
+}
+
+.aug {
+    background-image: url(image/6584451.png);
+    background-repeat: no-repeat;
+}
+
+
+.april {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 25px;
+    color: white
+}
