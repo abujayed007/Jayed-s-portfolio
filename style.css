@@ -11,7 +11,7 @@ h1 {
     color: darkcyan;
 }
 
-section {
+.flexible-container {
     display: flex;
     padding-left: 5%;
 }
@@ -21,7 +21,10 @@ section {
 
 }
 
-.rana {}
+.rana {
+    background-image: url(image/593415.jpg);
+    background-repeat: no-repeat;
+}
 
 .july {
     width: 50%;
@@ -30,9 +33,10 @@ section {
 
 .aug {
     background-image: url(image/6584451.png);
+    background-size: auto;
     background-repeat: no-repeat;
-}
 
+}
 
 .april {
     text-decoration: none;
