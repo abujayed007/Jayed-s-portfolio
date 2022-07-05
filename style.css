@@ -22,7 +22,8 @@ h1 {
 }
 
 .rana {
-    background-image: url(image/593415.jpg);
+    background-position: right;
+    background-image: url(image/WhatsApp\ Image\ 2022-07-05\ at\ 1.32.36\ PM.jpeg);
     background-repeat: no-repeat;
 }
 
@@ -44,4 +45,26 @@ h1 {
     padding: 10px 40px;
     border-radius: 25px;
     color: white
+}
+
+.baby {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+.last-part {
+    background-image: url(image/whatsapp.jpeg);
+    background-repeat: no-repeat;
+}
+
+#maa {
+    border-left: 5px solid blue;
+}
+
+#baba {
+    border-left: 5px solid orange;
 }
